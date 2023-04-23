@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishwarya42
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Frontend Development
+- 👀 I’m learning Fullstack Development
+- 🌱 I’m a java developer
 - 📫 How to reach me - aishwaryakashyap42@gmail.com
 
 <!---
