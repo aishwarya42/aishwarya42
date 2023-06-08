@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aishwarya42
-- 👀 I’m learning Fullstack Development
+- 👀 Upcoming Fullstack Developer
 - 🌱 I’m a java developer
 - 📫 How to reach out - aishwaryakashyap42@gmail.com
 
