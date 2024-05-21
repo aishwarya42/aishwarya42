@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishwarya42
-- 👀 Upcoming Fullstack Developer
-- 🌱 I’m a java developer
+- 👀 AI/ML Researcher
+- 🌱 I’m a software developer
 - 📫 How to reach out - aishwaryakashyap42@gmail.com
 
 <!---
