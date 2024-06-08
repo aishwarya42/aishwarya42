@@ -11,7 +11,8 @@
   <a href="https://www.linkedin.com/in/aishwaryakashyap/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  ### :fire: My Stats :
+</div>
+  :fire: My Stats :
  <div align="left">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aishwarya42&theme=dark" alt="GitHub Streak" /></a>
  </div>
