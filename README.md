@@ -7,11 +7,6 @@
   <p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50"/>
   I’m a software developer</p>
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aishwaryakashyap/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
   :fire: My Stats :
  <div align="left">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aishwarya42&theme=dark" alt="GitHub Streak" /></a>
@@ -25,7 +20,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<p>📫 Reach out to me - aishwaryakashyap42@gmail.com</p>
+ <div id="badges">
+ <p>📫 Reach out to me - <a href="https://www.linkedin.com/in/aishwaryakashyap/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></p>
+</div>
 <!---
 aishwarya42/aishwarya42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
