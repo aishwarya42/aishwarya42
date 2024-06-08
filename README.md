@@ -5,7 +5,7 @@
 <p>👀 AI/ML Researcher</p>
  <div align="left">
   <p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50"/>
-  🌱 I’m a software developer</p>
+  I’m a software developer</p>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/aishwaryakashyap/">
@@ -13,7 +13,7 @@
   </a>
   </div>
 - 📫 Reach out to me - aishwaryakashyap42@gmail.com
-  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aishwarya42&theme=dark)](https://git.io/streak-stats)
 
 <!---
 aishwarya42/aishwarya42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
