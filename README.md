@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/aishwaryakashyap/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="">
+   <a href="https://img.shields.io/badge/Contact%20Me-Gamil-red">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
