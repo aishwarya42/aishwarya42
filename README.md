@@ -3,9 +3,8 @@
 </div>
 :woman_technologist: About Me :
  <div align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50"/>
+  <p> Hi, I’m Aishwarya Kashyap<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50"/></p>
 </div>
-👋 Hi, I’m Aishwarya Kashyap 
 <p>:telescope: I’m a Software Engineer contributing to AI/ML Research and full-stack development for building web applications.</p>
 <p>:seedling: Exploring Technical Content.</p>
 <p>:zap: I solve problems on Leetcode and read tech articles.</p>
