@@ -13,7 +13,7 @@
   </a>
   </div>
 - 📫 Reach out to me - aishwaryakashyap42@gmail.com
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aishwarya42&theme=dark)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aishwarya42&theme=dark" alt="GitHub Streak" /></a>
 
 <!---
 aishwarya42/aishwarya42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
