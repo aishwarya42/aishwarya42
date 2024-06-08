@@ -9,7 +9,7 @@
 - 👋 Hi, I’m Aishwarya Kashyap
 - 👀 AI/ML Researcher
 - <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" height="100"/>
 </div>🌱 I’m a software developer
 - 📫 Reach out to me - aishwaryakashyap42@gmail.com
   
