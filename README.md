@@ -3,16 +3,15 @@
 </div>
 - 👋 Hi, I’m Aishwarya Kashyap
 - 👀 AI/ML Researcher
+ <div align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50"/>
+  <p>🌱 I’m a software developer</p>
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/aishwaryakashyap/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-
-- <div align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnMTN5OW1kamFhbjQwMjFoejMxZmd0eTIzZmpsbHNjNWxxYmxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50"/>
-  <p>🌱 I’m a software developer</p>
-</div>
 - 📫 Reach out to me - aishwaryakashyap42@gmail.com
   
 
