@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/aishwaryakashyap/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://img.shields.io/badge/Contact%20Me-Gamil-red">
-  </a>
   </div>
 - 👋 Hi, I’m Aishwarya Kashyap
 - 👀 AI/ML Researcher
