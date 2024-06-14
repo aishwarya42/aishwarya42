@@ -5,7 +5,7 @@
  <div align="left">
  <p>:woman_technologist: Hi, I’m Aishwarya Kashyap</p>
 </div>
-<p>:telescope: I’m a Software Engineer contributing to AI/ML Research and full-stack development for building web applications.</p>
+<p>:telescope: I’m a Software Developer contributing to AI/ML Research and full-stack development for building web applications. Getting my hands on Blockchain Tech.</p>
 <p>:seedling: Exploring Technical Content.</p>
 <p>:zap: I solve problems on Leetcode and read tech articles.</p>
 
